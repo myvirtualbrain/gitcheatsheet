@@ -1,4 +1,4 @@
-Install git
+#Install git
 http://git-scm.com
 
 Check git version (if it's installed)
