@@ -22,7 +22,7 @@ $ rm -R .git
 See git status
 $ git status
 
-Add a file to be commited
+Add a file to be committed
 $ git add "filename"
 
 Add all changed files
